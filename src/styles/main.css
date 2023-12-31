@@ -14,7 +14,6 @@ body {
     background-color: #000000;
 }
 
-
 .container header {
     color: #b2b2b2;
     display: flex;
@@ -51,7 +50,6 @@ header .column span {
     position: relative;
 }
 
-
 .keys-check input::before {
     content: "";
     height: 20px;
@@ -64,7 +62,6 @@ header .column span {
     transform: translateY(-50%);
     transition: all 0.3s ease;
 }
-
 
 .keys-check input:checked::before {
     left: 2.1rem;
