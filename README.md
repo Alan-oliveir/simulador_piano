@@ -13,7 +13,11 @@ O objetivo desse projeto é desenvolver um simulador de piano totalmente funcion
 ## Preview
 ![img](https://github.com/Alan-oliveir/simulador_piano/blob/main/images/piano_screen.png)
 
+## Deploy
+A página está disponível para ser acessada em:
+https://alan-oliveir.github.io/simulador_piano/
 ___
+
 **Créditos:**   
 Acesse [aqui](https://github.com/Alan-oliveir/simulador_piano/blob/main/CREDITS.md)
 
