@@ -16,7 +16,6 @@ O objetivo desse projeto é desenvolver um simulador de piano totalmente funcion
 ## Deploy
 A página está disponível para ser acessada em:
 https://alan-oliveir.github.io/simulador_piano/
-___
 
 ## Créditos
 Este jogo foi desenvolvido como parte de um projeto educacional da **Digital Innovation One**.  
@@ -27,5 +26,5 @@ Confira o repositório original [aqui.](https://github.com/felipeAguiarCode/js-m
 
 ___
 
-## Contato 
+### Contato 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-ogoncalves)
