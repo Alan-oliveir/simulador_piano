@@ -18,8 +18,14 @@ A página está disponível para ser acessada em:
 https://alan-oliveir.github.io/simulador_piano/
 ___
 
-**Créditos:**   
-Acesse [aqui](https://github.com/Alan-oliveir/simulador_piano/blob/main/CREDITS.md)
+## Créditos
+Este jogo foi desenvolvido como parte de um projeto educacional da **Digital Innovation One**.  
+Confira o repositório original [aqui.](https://github.com/felipeAguiarCode/js-music-keyboard-virtual)
 
-**Contato:**  
+## License
+[![MIT](https://img.shields.io/npm/l/react)](https://github.com/Alan-oliveir/simulador_piano/blob/main/LICENSE.md)  
+
+___
+
+## Contato 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-ogoncalves)
